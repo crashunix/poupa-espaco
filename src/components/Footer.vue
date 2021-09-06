@@ -3,14 +3,14 @@
         <div class="container mx-auto px-4">
             <div class="">
                 <div class="grid grid-cols-1 md:grid-cols-2 h-full py-7">
-                    <div class="flex flex-col justify-between bg-red-200">
+                    <div class="flex flex-col space-y-4">
                         <h2 class="font-bold text-white text-lg">Poupa Espaço</h2>
                         <div class="flex space-x-2">
                             <svg width="20" height="28" fill="none"><path d="M15.763 26.826l3.363-2.92c.365-.316.347-.841-.04-1.242l-4.092-4.208c-.358-.368-.947-.542-1.434-.42l-3.594.873c-2.735-2.987-4.293-6.573-4.273-10.044l3.858-.25c.529-.034.905-.35.926-.775l.234-4.86c.018-.467-.386-.934-.961-1.11L4.458.255C3.908.087 3.34.227 3.096.605c-5.57 8.562-.575 20.336 11.19 26.299.513.26 1.126.228 1.477-.078z" fill="#fff"/></svg>
                             <span class="text-white">(11) 99269-4933</span>
                         </div>
                     </div>
-                    <div class="flex flex-col justify-between bg-red-200">
+                    <div class="flex flex-col space-y-4">
                         <div class="flex space-x-2">
                             <svg width="31" height="29" fill="none"><path d="M15.5.453C7.205.453.484 6.74.484 14.5c0 7.76 6.721 14.047 15.016 14.047S30.516 22.26 30.516 14.5C30.516 6.74 23.795.453 15.5.453zm5.6 17.729l-1.211 1.416a.956.956 0 01-.29.227 1.019 1.019 0 01-1.072-.086l-4.056-2.816a2.298 2.298 0 01-.67-.788 2.146 2.146 0 01-.239-.98V6.343c0-.24.103-.471.284-.641.182-.17.428-.266.685-.266h1.938c.257 0 .503.096.685.266.181.17.284.4.284.64V14.5l3.511 2.407c.1.075.182.167.244.27a.865.865 0 01.081.69.887.887 0 01-.174.315z" fill="#fff"/></svg>
                             <span class="text-white">De segunda a sexta - das 8:00 as 18:00</span>
